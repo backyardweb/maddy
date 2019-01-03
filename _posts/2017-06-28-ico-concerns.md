@@ -3,7 +3,7 @@ layout: post
 title: ICO Concerns
 date: 2017-06-28T00:00:00.000Z
 categories:
-  - ethereum
+  - cryptography
 comments: false
 ---
 

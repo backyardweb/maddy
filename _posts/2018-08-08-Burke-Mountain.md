@@ -3,7 +3,7 @@ layout: post
 title: Burke Mountain Trails
 date: 2018-08-08T00:00:00.000Z
 categories:
-  - hiking
+  - trails
 comments: false
 ---
 
@@ -12,5 +12,9 @@ I am putting this post up to force myself to update it as I explore Burke Mounta
 I will do my best to upload images, and of course will include maps of all of my routes.
 
 <!-- more -->
+
+[Dennett Lake](/posts/2018-11/Dennett-Lake)
+
+[Rospe Trail](/posts/2018-08/Rospe-Trail)
 
 More to come.
