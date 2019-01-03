@@ -1,3 +1,7 @@
+language: ruby
+cache: bundler
+script:
+  - JEKYLL_ENV=production bundle exec jekyll build --destination _site
 deploy:
   provider: pages
   skip-cleanup: true
@@ -5,5 +9,6 @@ deploy:
   keep-history: true
   local-dir: ./_site
   target-branch: master
+  keep-history: true
   on:
     branch: source
