@@ -1,0 +1,69 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Mackenzie Craig
+email: hello@maccraig.net
+description: Personal website/blog
+url: https://maccraig.net
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          California
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!-- more -->
+permalink:         /posts/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Mackenzie Craig
+  avatar:
+  job: "software developer"
+  bio: "Fan of open source and hiking. Studying CS in Vancouver, Canada."
+  email: hello@maccraig.net
+  disqus-shortname:
+  twitter: mcknzcrg
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-57546802-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: tehp
+  gitlab: #username
+  stackoverflow: 4255272/tehp
+  linkedin: mcknzcrg
+  skype: #username
+  xing: #username
+  instagram: mcknzcrg
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
