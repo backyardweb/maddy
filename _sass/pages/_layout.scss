@@ -17,21 +17,25 @@
     width: 100%;
   }
 }
+
 .cover-card {
   color: $text-color;
   padding: 0 30px;
+
   .avatar {
     border-radius: 50%;
     width: 100px;
     height: 100px;
     float: none;
   }
+
   .author_name {
     display: block;
     color: #F36170;
     font-size: 1.75em;
-    text-transform: lowercase;
+    text-transform: none;
   }
+
   .author_job {
     display: block;
     color: $secondary;
@@ -40,6 +44,7 @@
     text-transform: uppercase;
     margin: -5px auto 10px;
   }
+
   .author_bio {
     font-size: 90%;
     display: block;
@@ -47,49 +52,60 @@
   @include media-query($medium-screen) {
     text-align: right;
     margin: 0 auto;
-    padding: 0 0px 80px;
+    padding: 0 0 80px;
   }
 }
+
 .social-links {
   margin-top: 0.5em;
+
   ul {
     margin: 0;
     padding: 0;
+
     li {
       list-style: none;
       display: inline-block;
       margin-left: 1em;
+
       a.social-link-item {
         color: $secondary;
-        &:hover,
-        &:focus {
+
+        &:focus,
+        &:hover {
           color: lighten($secondary, 14%);
         }
       }
     }
   }
 }
+
 .nav-list {
   margin: 0;
   padding: 0;
   list-style: none;
+
   .nav-item {
     display: inline-block;
     *display: inline;
     zoom: 1;
+
     &:after {
       content: '/';
     }
+
     &:last-child:after {
       content: '';
     }
+
     & a {
       margin-top: 1em;
       text-transform: lowercase;
       font-size: 85%;
       color: $secondary;
-      &:hover,
-      &:focus {
+
+      &:focus,
+      &:hover {
         color: lighten($secondary, 14%);
       }
     }
