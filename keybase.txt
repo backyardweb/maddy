@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/tehp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maccraig.net
+  * I am tehp (https://keybase.io/tehp) on keybase.
+  * I have a public key with fingerprint 0516 C9FF E46B B6C0 EBA8  7489 6F7D 0DA9 F021 9CDF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011e766d0789b38e90c864bca62ca682921bb13f73647f8f2c1d7b0b149ef48d7b0a",
+      "fingerprint": "0516c9ffe46bb6c0eba874896f7d0da9f0219cdf",
+      "host": "keybase.io",
+      "key_id": "6f7d0da9f0219cdf",
+      "kid": "01011e766d0789b38e90c864bca62ca682921bb13f73647f8f2c1d7b0b149ef48d7b0a",
+      "uid": "4acc1eeb66d86b3ed30944246ae4e419",
+      "username": "tehp"
+    },
+    "merkle_root": {
+      "ctime": 1546878460,
+      "hash_meta": "33100eba6d62d213ac7a21395c2406337edec4822a8239895cb021c8f1ede60c",
+      "seqno": 4245742
+    },
+    "revoke": {
+      "sig_ids": [
+        "a042e7a3b8656a2855a6348f564c27007cae8453daf4d9ee10ac66dbb02cdba80f"
+      ]
+    },
+    "service": {
+      "hostname": "maccraig.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1546878461,
+  "expire_in": 157680000,
+  "prev": "483580dacf9bd6c0227d2ff98bc3d76ffc08c0495e8d6c3b07cbad792e669756",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMKxAnicrVNdaB1FFL43qRVvDNQiUmuNuupDIcTZ2dn5uZRCY+uThAi1Smy4zM+Z
+ZHuTu7e7m9S0SUUqiliKFkEMjYJ/aH1Rc0GsYGJJA6F5CqliMYWkVutDtRoQpBad
+DRVBfHRhmd053/nOd745M9PaXCgV/bltzy/1ZD8Wz57eP1TYG4xdP+Sp2Ix45UNe
+FdYWGDCQZpVqZLyyh3zk+8AoNYhxoQIOAmlOidKSYvdyLLCvlB9YFlDCLLdY+4Yp
+pHwiwBKef0uv3bNRrQ+SehLVspw29KkW1gKhSlGNQEnOCBfUMoOMFBZhX2hjXWJ/
+nOYZTpySKXREsdtzP5U1ef+B/591D63REam1D6AcH6cqABMgQQgmVAIB4oscmEJS
+k4Pg0Bn0172xdm8QkuoAVJI4znJjdRblYT8klDNOKHLNybS/MgiZdFlB4KPcCGoo
+NtgPpGbSLSLUmCAaBAwMaMIxlhwHgrt95brW3PouQJF2GlLYX4u9shMWMoKdggSG
+4yrkxdOoz1mWeuWnPIkIBiYDxWlIJeZhKGlAuA0p0ZghxLQETsLASEuMAPCR1K5x
+5cpp4w4KWa93LC+WDEd6jTw/oxu9DzqnEhn1ddQgc4rqSZzFOh5wkf4sq6fl3Jds
+pJ5DD4Cq3CCpqKhm3IS4jGFI0iiuOZ8c8t+W+e0ePF2PEqhEOSJklCP35HVgOD8n
+HoTcDYS2Qhk3Vxgzg60VXOnAMGqtRlwjIkLgLhwo16uShgkMlAoW0n88FE6m7HOU
+zriazIYS8MZOT+9dVyiWCutvaspvTqF0y4a/79Pvkzf/eXDxztbPSjuWG3sa2ycb
+F6q/Tb74dbGn6ZF3zXdtxanPz8+/88UDldXRt1uubLq0Nal8dfbL8aHV0j770J6j
+M4//0hvftn5LqcWuTpDG+KWl64ej8TNLdOcPR84t3dFzz+zl7fXNM1Od1+6+d/R4
+z8PPtM2RM4WhUwtHO/WujU9cbd19363T7SO7p164/M3Cr10nV55b997Hx8LGXEv3
+qbe8zd93d7/xWvBKFz5AV15d3PfzkyvF+z+96+r7V9T8uZ1NRzqg7eLF8cXl20+2
+vLll22ztww8ubOztfHRgdNPyVhML/frBrvPNzd/+UfL0g4/N/zSrDy8coxO7Npz4
+ZMfEs8eLLyUzJ6Y/uvbyX5mngfU=
+=AzwP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tehp
+
+==================================================================
