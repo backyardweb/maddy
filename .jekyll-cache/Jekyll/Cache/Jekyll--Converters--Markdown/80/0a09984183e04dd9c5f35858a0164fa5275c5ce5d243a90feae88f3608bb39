@@ -1,0 +1,8 @@
+I"(<p>Generating spectrograms in C++ is a good way to learn about Fourier Transforms and working with audio file formats.</p>
+
+<!-- more -->
+
+<p>My project <a href="https://github.com/tehp/flacspec">flacspec</a> is available on GitHub.</p>
+
+<p><img src="/img/flacspec.png" alt="Dennett Lake" /></p>
+:ET

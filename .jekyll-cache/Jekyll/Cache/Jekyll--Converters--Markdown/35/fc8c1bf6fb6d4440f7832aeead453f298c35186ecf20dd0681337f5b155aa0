@@ -1,0 +1,5 @@
+I"�<p>In the early months of the COVID-19 pandemic I worked on a tool for comparing genomes in C++. The project is named “vdiff”, after virus diff (like the unix command line tool “diff”).</p>
+
+<p>The vdiff command line tool provides information about two genomes, including the number of matching strings within two genomes, and the percentage of the genomes that are matching when aligned. This information is output via command line logging, as well as optional CSV match output for graphing.</p>
+
+:ET

@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Mackenzie Craig
-email: hello@maccraig.net
-description: Personal website/blog
-url: https://maccraig.net
+title: Madison Lawrence
+email: #
+description: Blog
+url: http://127.0.0.1:4000
 
 
 #
@@ -36,28 +36,28 @@ plugins:
 ####################################
 #
 owner:
-  name: Mackenzie Craig
+  name: Madison Lawrence
   avatar:
-  job: "software developer"
-  bio: "Hiking, running, writing code, and studying Computer Science in Vancouver, Canada."
-  email: hello@maccraig.net
+  job: "Blogger"
+  bio: "???"
+  email: #
   disqus-shortname:
-  twitter: mcknzcrg
+  twitter: 
   facebook: #username
   google:
     plus: #username
-    analytics: UA-57546802-2
+    analytics: 
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: tehp
+  github: #username
   gitlab: #username
-  stackoverflow: 4255272/tehp
-  linkedin: mcknzcrg
+  stackoverflow: #username
+  linkedin: #username
   skype: #username
   xing: #username
-  instagram: mcknzcrg
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
